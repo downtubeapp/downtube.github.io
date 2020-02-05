@@ -22,7 +22,7 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: images/downtubessnew.jpg
+  screenshot: https://github.com/downtubeapp/downtubeapp.github.io/raw/master/images/downtubessnew.jpg
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
