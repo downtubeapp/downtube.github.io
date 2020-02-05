@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: DownTube App # REQUIRED - Enter your app name
+  ios_id: 1291074750 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: DownTube Music # Optional
+marketing_desc: DownTube Music allows you to watch videos and listen to millions of songs.
 
 #
 # Social Links
@@ -55,7 +55,7 @@ social-links:
   facebook:
   twitter:
   pinterest:
-  instagram:
+  instagram: downtube.app
   email:
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
