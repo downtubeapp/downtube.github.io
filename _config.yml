@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: DownTube App # REQUIRED - Enter your app name
+  name: DownTube # REQUIRED - Enter your app name
   ios_id: 1291074750 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -55,7 +55,7 @@ social-links:
   facebook:
   twitter:
   pinterest:
-  instagram: downtube.app
+  instagram: downtubeapp
   email:
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
